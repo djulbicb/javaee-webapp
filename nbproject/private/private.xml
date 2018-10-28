@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Bojan/Documents/NetBeansProjects/assigment_webshop_bo/web/WEB-INF/products.jsp</file>
+            <file>file:/C:/Users/Bojan/Documents/NetBeansProjects/assigment_webshop_bo/nbproject/build-impl.xml</file>
+            <file>file:/C:/Users/Bojan/Documents/NetBeansProjects/assigment_webshop_bo/src/java/servlet/Login.java</file>
+            <file>file:/C:/Users/Bojan/Documents/NetBeansProjects/assigment_webshop_bo/web/WEB-INF/users.jsp</file>
+            <file>file:/C:/Users/Bojan/Documents/NetBeansProjects/assigment_webshop_bo/web/panel.jsp</file>
+            <file>file:/C:/Users/Bojan/Documents/NetBeansProjects/assigment_webshop_bo/src/java/servlet/Logout.java</file>
+            <file>file:/C:/Users/Bojan/Documents/NetBeansProjects/assigment_webshop_bo/src/java/model/User.java</file>
+            <file>file:/C:/Users/Bojan/Documents/NetBeansProjects/assigment_webshop_bo/web/WEB-INF/css/style.css</file>
+            <file>file:/C:/Users/Bojan/Documents/NetBeansProjects/assigment_webshop_bo/src/java/model/Manufactor.java</file>
+            <file>file:/C:/Users/Bojan/Documents/NetBeansProjects/assigment_webshop_bo/web/index.jsp</file>
+            <file>file:/C:/Users/Bojan/Documents/NetBeansProjects/assigment_webshop_bo/web/WEB-INF/web.xml</file>
+            <file>file:/C:/Users/Bojan/Documents/NetBeansProjects/assigment_webshop_bo/src/java/model/Product.java</file>
+            <file>file:/C:/Users/Bojan/Documents/NetBeansProjects/assigment_webshop_bo/src/java/servlet/Shops.java</file>
+            <file>file:/C:/Users/Bojan/Documents/NetBeansProjects/assigment_webshop_bo/web/WEB-INF/shops.jsp</file>
+            <file>file:/C:/Users/Bojan/Documents/NetBeansProjects/assigment_webshop_bo/src/java/hibernate.cfg.xml</file>
+            <file>file:/C:/Users/Bojan/Documents/NetBeansProjects/assigment_webshop_bo/src/java/Config/Configuration.java</file>
+            <file>file:/C:/Users/Bojan/Documents/NetBeansProjects/assigment_webshop_bo/src/java/model/Category.java</file>
+            <file>file:/C:/Users/Bojan/Documents/NetBeansProjects/assigment_webshop_bo/web/WEB-INF/cart.jsp</file>
+            <file>file:/C:/Users/Bojan/Documents/NetBeansProjects/assigment_webshop_bo/src/java/db/HibernateUtil.java</file>
+            <file>file:/C:/Users/Bojan/Documents/NetBeansProjects/assigment_webshop_bo/src/java/servlet/Users.java</file>
+            <file>file:/C:/Users/Bojan/Documents/NetBeansProjects/assigment_webshop_bo/src/java/servlet/Products.java</file>
+        </group>
+    </open-files>
+</project-private>
